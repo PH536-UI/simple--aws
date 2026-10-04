@@ -1,1 +1,1 @@
-{"errorMessage":"Failed to start Lambda container: java.net.BindException: Permission denied","errorType":"Lambda.InitError"}
+{"statusCode": 200, "body": "Ola Phcavalheiro76 - Floci 127 servicos - lambda fake OK"}
